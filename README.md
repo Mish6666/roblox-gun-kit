@@ -9,6 +9,7 @@ Features
 Todo
 - secure the remotes
 
+Preview
 ![image](https://user-images.githubusercontent.com/59292383/167273536-ffb1968a-f287-4c5d-9761-11e97e08dbaf.png)
 
 #### Instalation
