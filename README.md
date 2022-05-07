@@ -1,6 +1,16 @@
 ## SimpleGunKit
 By Mishaho
 
+Features
+- gun drops
+- gun pickups
+- complete customization
+
+Todo
+- secure the remotes
+
+![image](https://user-images.githubusercontent.com/59292383/167273536-ffb1968a-f287-4c5d-9761-11e97e08dbaf.png)
+
 #### Instalation
 Just put the folder in the workspace, it will then install itself at runtime.
 This kit will use serverstorage to store guns, replicatedstorage to store remotes and the gunstats-module.
