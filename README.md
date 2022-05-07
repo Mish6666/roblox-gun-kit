@@ -1,23 +1,23 @@
 ## SimpleGunKit
 By Mishaho
 
-Features
+## Features
 - gun drops
 - gun pickups
 - complete customization
 
-Todo
+## Todo
 - secure the remotes
 
-Preview
+## Preview
 ![image](https://user-images.githubusercontent.com/59292383/167273536-ffb1968a-f287-4c5d-9761-11e97e08dbaf.png)
 
-#### Instalation
+## Instalation
 Just put the folder in the workspace, it will then install itself at runtime.
 This kit will use serverstorage to store guns, replicatedstorage to store remotes and the gunstats-module.
 The folder in the workspace remains for gun drops and pickups.
 
-#### Adding a gun
+## Adding a gun
 A gun requires a tool and a model. The tool is what the player will be using. The model is for pickup.
 The tool needs to be unanchored and all parts must be welded together.
 The tool requires a "Handle" with a "muzzle" and a "tracer".
